@@ -1,0 +1,58 @@
+{
+  "failed": [
+    "https://www.googletagmanager.com/gtm.js?id=GTM-PSJFHZN",
+    "https://cdn.usefathom.com/?h=http%3A%2F%2F127.0.0.1&p=%2Findex.html&r=&sid=SJUWHXFC&qs=%7B%7D&cid=17875755",
+    "https://cdn.usefathom.com/?name=loading%20complete%20under%203s&payload=%7B%7D&p=%2Findex.html&h=http%3A%2F%2F127.0.0.1&r=&sid=SJUWHXFC&qs=%7B%7D&cid=10199264"
+  ],
+  "httpErrors": [
+    {
+      "url": "http://127.0.0.1:58725/web-app-manifest-192x192.png",
+      "status": 404
+    },
+    {
+      "url": "http://127.0.0.1:58725/web-app-manifest-512x512.png",
+      "status": 404
+    }
+  ],
+  "pageErrors": [],
+  "remote": [
+    "https://www.googletagmanager.com/gtm.js?id=GTM-PSJFHZN",
+    "https://cdn.usefathom.com/?h=http%3A%2F%2F127.0.0.1&p=%2Findex.html&r=&sid=SJUWHXFC&qs=%7B%7D&cid=17875755",
+    "https://cdn.usefathom.com/?name=loading%20complete%20under%203s&payload=%7B%7D&p=%2Findex.html&h=http%3A%2F%2F127.0.0.1&r=&sid=SJUWHXFC&qs=%7B%7D&cid=10199264"
+  ],
+  "pages": [
+    {
+      "original": "https://lamalama.com/",
+      "local": "http://127.0.0.1:58725/",
+      "failed": [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-PSJFHZN",
+        "https://cdn.usefathom.com/?h=http%3A%2F%2F127.0.0.1&p=%2Findex.html&r=&sid=SJUWHXFC&qs=%7B%7D&cid=17875755",
+        "https://cdn.usefathom.com/?name=loading%20complete%20under%203s&payload=%7B%7D&p=%2Findex.html&h=http%3A%2F%2F127.0.0.1&r=&sid=SJUWHXFC&qs=%7B%7D&cid=10199264"
+      ],
+      "httpErrors": [
+        {
+          "url": "http://127.0.0.1:58725/web-app-manifest-192x192.png",
+          "status": 404
+        },
+        {
+          "url": "http://127.0.0.1:58725/web-app-manifest-512x512.png",
+          "status": 404
+        }
+      ],
+      "pageErrors": [],
+      "remote": [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-PSJFHZN",
+        "https://cdn.usefathom.com/?h=http%3A%2F%2F127.0.0.1&p=%2Findex.html&r=&sid=SJUWHXFC&qs=%7B%7D&cid=17875755",
+        "https://cdn.usefathom.com/?name=loading%20complete%20under%203s&payload=%7B%7D&p=%2Findex.html&h=http%3A%2F%2F127.0.0.1&r=&sid=SJUWHXFC&qs=%7B%7D&cid=10199264"
+      ],
+      "visualDiff": 0.006939125816993464
+    }
+  ],
+  "visual": [
+    {
+      "page": "https://lamalama.com/",
+      "difference": 0.006939125816993464
+    }
+  ],
+  "clean": false
+}
